@@ -2,9 +2,9 @@
 
 | Service           | Name  |
 | ----------------- | ----- |
-| DNSSEC            |       |
+| DNSSEC            | MH AW |
 | SEC WEB           | TS VD |
-| SEC Autre Service |       |
+| SEC Autre Service | RB JV |
 | TEST              | AM AW |
 | ANSSI             | TS MH |
 | tunnel            | AD JV |
